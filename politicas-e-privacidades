@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidade - App Facebook</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+    }
+    h1, h2 {
+      color: #145ea2;
+    }
+    a {
+      color: #145ea2;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidade</h1>
+
+  <p>Última atualização: 08 de julho de 2025</p>
+
+  <h2>1. Informações que coletamos</h2>
+  <p>Quando você usa nosso aplicativo ou site, podemos coletar as seguintes informações:</p>
+  <ul>
+    <li>Informações pessoais fornecidas por você, como nome, e-mail e telefone;</li>
+    <li>Dados de uso e navegação, incluindo endereço IP, cookies e informações do dispositivo;</li>
+    <li>Informações coletadas via integração com Facebook/Meta, conforme sua autorização.</li>
+  </ul>
+
+  <h2>2. Como usamos suas informações</h2>
+  <p>Utilizamos suas informações para:</p>
+  <ul>
+    <li>Fornecer, manter e melhorar nossos serviços;</li>
+    <li>Personalizar sua experiência;</li>
+    <li>Enviar comunicações relacionadas ao serviço, caso tenha consentido;</li>
+    <li>Cumprir obrigações legais e regulatórias.</li>
+  </ul>
+
+  <h2>3. Compartilhamento de dados</h2>
+  <p>Seus dados poderão ser compartilhados somente com:</p>
+  <ul>
+    <li>Provedores de serviços que nos auxiliam no funcionamento do app, sob compromisso de confidencialidade;</li>
+    <li>Autoridades legais, caso exigido por lei;</li>
+    <li>Com seu consentimento explícito.</li>
+  </ul>
+
+  <h2>4. Segurança</h2>
+  <p>Adotamos medidas técnicas e administrativas para proteger seus dados contra acessos não autorizados, alteração ou destruição.</p>
+
+  <h2>5. Seus direitos</h2>
+  <p>Você pode solicitar a qualquer momento:</p>
+  <ul>
+    <li>O acesso, correção ou exclusão dos seus dados pessoais;</li>
+    <li>Revogar consentimentos concedidos;</li>
+    <li>Limitar o uso de seus dados.</li>
+  </ul>
+  <p>Para isso, entre em contato pelo e-mail: <a href="mailto:contato@renovedigital.com.br">seuemail@exemplo.com</a>.</p>
+
+  <h2>6. Uso de cookies</h2>
+  <p>Nosso site e app utilizam cookies para melhorar a experiência do usuário, análise e personalização de conteúdo. Você pode gerenciar as configurações de cookies no seu navegador.</p>
+
+  <h2>7. Alterações nesta Política</h2>
+  <p>Podemos atualizar esta Política de Privacidade ocasionalmente. Publicaremos a nova versão nesta página com a data atualizada.</p>
+
+  <h2>8. Contato</h2>
+  <p>Se tiver dúvidas sobre esta Política, entre em contato pelo e-mail: <a href="mailto:contato@renovedigital.com.br">seuemail@exemplo.com</a>.</p>
+
+</body>
+</html>
